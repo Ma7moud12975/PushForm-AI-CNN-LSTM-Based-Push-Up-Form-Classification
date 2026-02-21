@@ -1,4 +1,7 @@
 <img width="2815" height="1536" alt="IMG_20260222_014420" src="https://github.com/user-attachments/assets/31ab9a5c-e8ae-48de-ab20-26091054714e" />
+
+---
+
 ## PushForm-AI-CNN-LSTM-Based-Push-Up-Form-Classification
 CNN-LSTM based push-up form classification using transfer learning and temporal sequence modeling.
 ## 🏋️ PushForm-AI  
