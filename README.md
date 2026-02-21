@@ -1,7 +1,7 @@
 <img width="2815" height="1536" alt="IMG_20260222_014420" src="https://github.com/user-attachments/assets/347a3251-b3f9-4b37-9143-b49e627e26bf" />
-# PushForm-AI-CNN-LSTM-Based-Push-Up-Form-Classification
+## PushForm-AI-CNN-LSTM-Based-Push-Up-Form-Classification
 CNN-LSTM based push-up form classification using transfer learning and temporal sequence modeling.
-# 🏋️ PushForm-AI  
+## 🏋️ PushForm-AI  
 ### CNN-LSTM Based Push-Up Form Classification
 
 PushForm-AI is a deep learning project that analyzes push-up exercise videos and classifies them as **Correct** or **Wrong** form using a hybrid **Pretrained CNN + LSTM** architecture.
